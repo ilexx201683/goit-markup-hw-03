@@ -223,7 +223,7 @@ body {
 
 /* ---------------------------Секция Герой------------ */
 .hero {
-  padding: 200px 452px;
+  padding: 200px 0px;
   background-color: var(--second-background-color);
 }
 
@@ -250,8 +250,7 @@ body {
 /* ---------------------------Секция Особенности-------- */
 
 .section-features {
-  padding: 0;
-  margin: 94px 0;
+  padding: 94px 0;
 }
 
 .features-list {
@@ -287,8 +286,7 @@ body {
 /* ------------------Секция Чем мы занимаемся------------- */
 
 .section-activity {
-  padding: 0;
-  margin-bottom: 94px;
+  padding-bottom: 94px;
 }
 
 .activity-list {
@@ -405,7 +403,7 @@ body {
   display: flex;
   justify-content: center;
   min-width: 611px;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .button-works-item:not(:last-child) {
